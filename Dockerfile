@@ -8,7 +8,8 @@ WORKDIR /app
 COPY . /app
 
 # Install dependencies
-RUN pip install --no-cache-dir -r requirements.txt
+#RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install --default-timeout=200 --no-cache-dir -r requirements.txt -i https://pypi.org/simple
 
 # Expose Streamlit default port
 EXPOSE 8501
