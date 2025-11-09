@@ -7,7 +7,7 @@ Deployed via **Streamlit**, **Docker**, and **GitHub Actions** for a full end-to
 ## Features
 
 - **Data Cleaning & EDA:** Preprocess and explore customer data.  
-- **Machine Learning Model:** Train and evaluate models to predict churn.  
+- **Machine Learning Model:** Train and evaluate models to predict churn (Logistic Regression and Random Forest).  
 - **Interactive Streamlit App:** Web interface for real-time churn predictions.  
 - **Dockerized Deployment:** Containerized app for consistent environments.  
 - **CI/CD with GitHub Actions:** Automate testing and deployment.
@@ -22,3 +22,6 @@ Deployed via **Streamlit**, **Docker**, and **GitHub Actions** for a full end-to
 | **Frameworks** | Streamlit|
 | **DevOps** | Docker, GitHub Actions |
 | **Version Control** | Git & GitHub |
+
+## Live Demo
+👉 [Try it here](https:customer-churn-predictor1.streamlit.app)
