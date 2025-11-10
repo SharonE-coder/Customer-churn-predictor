@@ -26,7 +26,7 @@ Deployed via **Streamlit**, **Docker**, and **GitHub Actions** for a full end-to
 ## Live Demo
 👉 **Try the app:** [Customer Churn Predictor](https://customer-churn-predictor1.streamlit.app)
 
-## 📁 Project Structure
+## Project Structure
 
 ```bash
 Customer-churn-predictor/
@@ -96,9 +96,13 @@ Auto Deployment – deploy to Streamlit Cloud
 
 
 Author
+
 Nomdorah Marcus
-| AI Engineer | Data Scientist |
+
+AI Engineer | Data Scientist 
+
 📍 Based in Nigeria
+
 🔗 https://github.com/SharonE-coder · www.linkedin.com/in/nomdorah-marcus-438262213
 
 ⭐ If you found this project helpful, give it a star!
