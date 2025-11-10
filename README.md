@@ -28,7 +28,7 @@ Deployed via **Streamlit**, **Docker**, and **GitHub Actions** for a full end-to
 
 ## 📁 Project Structure
 
-
+```bash
 Customer-churn-predictor/
 │
 |__ app/
@@ -48,14 +48,14 @@ Customer-churn-predictor/
 │       └── deploy.yml       # GitHub Actions workflow
 │
 └── README.md
+```
 
----
 
 ## Run Locally
 
 ### Clone the repository
 ```bash
-git clone https://github.com/yourusername/Customer-churn-predictor.git
+git clone https://github.com/sharonE-coder/Customer-churn-predictor.git
 cd Customer-churn-predictor
 ```
 
