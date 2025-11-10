@@ -31,7 +31,7 @@ Deployed via **Streamlit**, **Docker**, and **GitHub Actions** for a full end-to
 ```bash
 Customer-churn-predictor/
 │
-|__ app/
+├── app/
 │   └── app.py               # Streamlit web app
 │
 ├── models/
@@ -97,7 +97,7 @@ Auto Deployment – deploy to Streamlit Cloud
 
 Author
 Nomdorah Marcus
-AI Engineer | Data Scientist
+| AI Engineer | Data Scientist |
 📍 Based in Nigeria
 🔗 https://github.com/SharonE-coder · www.linkedin.com/in/nomdorah-marcus-438262213
 
